@@ -342,8 +342,10 @@ i {
 .image {
     /* margin-top: 10%; */
     background-image: url(./firdaush2.jpeg);
+     background-repeat: no-repeat;
+    background-size:cover;
     width: 500px;
-    height: 600px;
+    height: 700px;
     size: 100%;
     border-radius: 40% 40% 40% 40%;
     overflow: hidden;
